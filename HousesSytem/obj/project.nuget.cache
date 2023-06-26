@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kR58bhu5zf3BrKqHfT3z4FPP00HFvWePCtkqfjN8YYkyKavUalyDbk4fp12+o7ZdO8smg38uUloCxlRfhrhnOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ELENA UMANZOR\\Desktop\\HousesSytem\\HousesSytem\\HousesSytem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ELENA UMANZOR\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
