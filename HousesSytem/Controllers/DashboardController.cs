@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ReservationWeb.App;
-using ReservationWeb.Models;
+using HousesSytem.App;
+using HousesSytem.Models;
 using System;
 using System.Linq;
 
-namespace ReservationWeb.Controllers
+namespace HousesSytem.Controllers
 {
     public class DashboardController : Controller
     {

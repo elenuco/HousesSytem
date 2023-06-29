@@ -1,4 +1,4 @@
-﻿namespace ReservationWeb.Models
+﻿namespace HousesSytem.Models
 {
     public class DashboardViewModel
     {

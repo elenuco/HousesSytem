@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ReservationWeb.Models
+namespace HousesSytem.Models
 {
     public class Categoria
     {
